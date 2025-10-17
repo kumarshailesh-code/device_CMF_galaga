@@ -1,4 +1,4 @@
-# Unpinned blobs from sys_mssi_64_64only_ww_armv82-user 15 AP3A.240905.015.A2 2505071139 release-keys
+# Unpinned blobs from CMF Phone 2 Pro (Galaga_V3.2-250715-1813).15 AP3A.240905.015.A2 release-keys
 
 # Audio
 system_ext/bin/hw/android.hardware.audio.parameter_parser.service
